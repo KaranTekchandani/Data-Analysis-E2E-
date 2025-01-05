@@ -1,4 +1,4 @@
-# Data-Analysis-E2E-
+# Data-Analysis-From-Scratch
 Overview
 This project demonstrates a comprehensive data analysis workflow using a Kaggle dataset. The analysis includes data manipulation, cleaning, and visualization using Python, querying the data with SQL, exporting results to CSV files, and presenting insights with an interactive dashboard in Power BI.
 
