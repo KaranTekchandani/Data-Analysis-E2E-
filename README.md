@@ -1,5 +1,7 @@
 # Data-Analysis-From-Scratch
 ![ezgif-4-2e447eb075](https://github.com/user-attachments/assets/f8d41028-021d-4906-9a54-d7f4e77f0658)
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/1c637bc7-c79e-4200-b254-da0c252e700d" />
+<img width="656" alt="image" src="https://github.com/user-attachments/assets/0785e056-5c9f-426e-b8c2-c3ee5eea2b04" />
 
 Overview
 This project demonstrates a comprehensive data analysis workflow using a Kaggle dataset. The analysis includes data manipulation, cleaning, and visualization using Python libraries, querying the data with PostgreSQL, exporting results to CSV files, and presenting insights with an interactive dashboard in Power BI.
