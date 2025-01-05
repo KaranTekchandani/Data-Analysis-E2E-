@@ -1,6 +1,8 @@
 # Data-Analysis-From-Scratch
+![ezgif-4-2e447eb075](https://github.com/user-attachments/assets/f8d41028-021d-4906-9a54-d7f4e77f0658)
+
 Overview
-This project demonstrates a comprehensive data analysis workflow using a Kaggle dataset. The analysis includes data manipulation, cleaning, and visualization using Python, querying the data with SQL, exporting results to CSV files, and presenting insights with an interactive dashboard in Power BI.
+This project demonstrates a comprehensive data analysis workflow using a Kaggle dataset. The analysis includes data manipulation, cleaning, and visualization using Python libraries, querying the data with PostgreSQL, exporting results to CSV files, and presenting insights with an interactive dashboard in Power BI.
 
 Tools & Technologies Used:
 Dataset: Kaggle
@@ -18,7 +20,8 @@ Importing Data: The dataset was imported into Python using the Pandas library.
 Cleaning Data: Missing values, incorrect data types, and outliers were handled.
 Data Transformation: Data was reshaped and transformed using Pandas and NumPy.
 CSV Export: After cleaning, the dataset was exported to a CSV file using Python.
-2. Exploratory Data Analysis (EDA) (Python)
+
+3. Exploratory Data Analysis (EDA) (Python)
 Visualization: Various plots were created using Matplotlib and Seaborn to understand the data distribution and relationships between variables.
 Histograms, Boxplots for distributions.
 Scatter plots, Correlation Matrices for relationships.
@@ -35,7 +38,8 @@ CTEs helped aggregate data and filter specific insights.
 5. Data Export to Excel (Python & Excel)
 CSV Export: The cleaned data was exported as CSV using Pandas.to_csv() and reviewed in Excel for further analysis.
 Excel Handling: Data refinement and preparation for Power BI was done in Excel.
-6. Power BI Dashboard
+
+7. Power BI Dashboard
 Building Dashboard: An interactive dashboard was created using Power BI to present key insights.
 Visualizations: Included bar charts, line graphs, and pie charts.
 Interactivity: Filters and slicers were used to allow for in-depth exploration of the data.
